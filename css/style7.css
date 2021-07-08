@@ -201,7 +201,7 @@
     height: 52.62px;
     left: 550px;
     top: 80px;
-    z-index: 99;
+    z-index: 999;
 }
 
 .notif{
@@ -210,7 +210,7 @@
     height: 52.62px;
     left: 590px;
     top: 80px;
-    z-index: 99;
+    z-index: 999;
 }
 
 .navbar-chat .list-item-logo1{
@@ -234,7 +234,7 @@
 }
 
 .dropdown1{
-    z-index: 9;
+    z-index: 99;
     position: absolute;
     top: 65px;
     left: -185px;
