@@ -9,7 +9,7 @@
     position: absolute;
     width: 1440px;
     height: 122.5px;
-    top: -1.01px;
+    top: 0px;
     left: -1.01px;
 }
 
@@ -78,7 +78,7 @@
     width: 1440px;
     height: 60px;
     left: -1.01px;
-    margin-top: 110px;
+    margin-top: 1020px;
 }
 
 .copyright{
