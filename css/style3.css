@@ -1,0 +1,177 @@
+@font-face{
+    font-family: 'Cocogoose';
+    src:url('../Font/Cocogoose\ Pro-trial.ttf');
+    font-family: 'Cocogoose Pro';
+    src: url('../Font/Cocogoose\ Pro\ Thin-trial.ttf');
+    font-family: 'Cocogoose Light';
+    src: url('../Font/Cocogoose\ Pro\ Light-trial.ttf');
+}
+
+.navbar-bg{
+    position: absolute;
+    width: 1440px;
+    height: 122.5px;
+    top: -1.01px;
+    left: -1.01px;
+}
+
+.navbar-brand{
+    font-family: 'Cocogoose';
+    font-weight: 400px;
+    font-size: 48px;
+    position: absolute;
+    text-align: center;
+    display: flex;
+    color: #ffffff;
+    margin-top: 29px;
+    margin-left: 120px;
+    text-decoration: none;
+}
+
+.logo-brand{
+    height: 380px;
+    width: 380px;
+    margin-top: 130px;
+    margin-left: 220px;
+}
+
+.nama{
+    font-family: 'Cocogoose';
+    color: #C7D0F2;
+    font-size: 36px;
+    margin-top: -10px;
+    margin-left: 280px;
+}
+
+.deskripsi{
+    font-family: 'Cocogoose Light';
+    color: #C7D0F2;
+    font-size: 14px;
+    margin-left: 285px;
+}
+
+.login-bg{
+    width: 420px;
+    height: 480px;
+    border-radius: 50px;
+    margin-top: -490px;
+    margin-left: 820px;
+}
+
+.text-daftar{
+    font-family: 'Cocogoose';
+    color: #ffffff;
+    font-size: 36px;
+    margin-top: -470px;
+    margin-left: 970px;
+
+}
+
+input[type="email"] {
+    font-family: 'Cocogoose Pro';
+    color: rgba(0, 0, 0, 0.24);
+    font-size: 14px;
+    margin-left: 840px;
+    width: 370px;
+    height: 40px;
+}
+
+input[type="username"] {
+    font-family: 'Cocogoose Pro';
+    color: rgba(0, 0, 0, 0.24);
+    font-size: 14px;
+    margin-left: 840px;
+    width: 370px;
+    height: 40px;
+}
+
+input[type="pass"] {
+    font-family: 'Cocogoose Pro';
+    color: rgba(0, 0, 0, 0.24);
+    font-size: 14px;
+    margin-left: 840px;
+    width: 370px;
+    height: 40px;
+}
+
+.btn-daftar{
+    background-color: rgba(143, 170, 241, 0.74);
+    font-family: 'Cocogoose';
+    font-size: 20px;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px;
+    margin-left: 875px;
+    cursor: pointer;
+}
+
+.text{
+    font-family: 'Cocogoose';
+    font-size: 10px;
+    color: #ffffff;
+    position: relative;
+    display: inline-block;
+    margin-top: -10px;
+    margin-left: 1010px;
+}
+
+.text h1:before{
+    content: " ";
+    position: absolute;
+    border-bottom: 1px solid white;
+    width: 150px;
+    left: -160px;
+    top: 50%;
+}
+.text h1:after{
+    content: " ";
+    position: absolute;
+    border-bottom: 1px solid white;
+    width: 150px;
+    right: -160px;	
+    top: 50%;
+}
+
+.fb{
+    margin-left: 890px;
+}
+
+.fb-text{
+    font-family: 'Cocogoose';
+    font-size: 14px;
+    color: #ffffff;
+    margin-top: -35px;
+    margin-left: 50px;
+}
+
+.google{
+    margin-left: 1060px;
+    margin-top: -40px;
+}
+
+.g-text{
+    font-family: 'Cocogoose';
+    font-size: 14px;
+    color: #ffffff;
+    margin-top: -35px;
+    margin-left: 50px;
+}
+
+.pertanyaan{
+    font-family: 'Cocogoose Light';
+    color: #ffffff;
+    margin-left: 910px;
+    margin-top: 40px;
+}
+
+.link{
+    font-family: 'Cocogoose';
+    color: #9EB6F2;
+    text-decoration: none;
+    margin-left: 5px; 
+}
