@@ -202,7 +202,6 @@ h1{
 }
 
 .nav{
-    position: absolute;
     margin: -160px 180px;
     text-align: center;
     font-family: 'Comforta';
@@ -239,7 +238,7 @@ h1{
     display: block;
     color: black;
     text-decoration: none;
-    padding: 20px 48px;
+    padding: 20px 49px;
 }
 
 .gambar{
