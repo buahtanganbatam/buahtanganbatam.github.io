@@ -244,7 +244,9 @@
     transform: translate(-50%);
     background-color: #FBF6F6;
     font-family: "Cocogoose Light";
-    
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s;
 }
 
 .dropdown1::before{
@@ -258,7 +260,9 @@
     top: -10px;
     left: 95%;
     transform: translate(-50%);
-    
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s;
 }
 
 .dropdown1 .dropdown-item1{
