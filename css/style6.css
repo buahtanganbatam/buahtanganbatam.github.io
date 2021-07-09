@@ -195,8 +195,15 @@
     z-index: 999;
 }
 
+h1{
+    font-family: 'Cocogoose Pro';
+    font-size: 30px;
+    margin: 200px 340px;
+}
+
 .nav{
-    margin: 180px 180px;
+    position: absolute;
+    margin: -210px 180px;
     text-align: center;
     font-family: 'Comforta';
     width: 70%;
