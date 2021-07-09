@@ -206,16 +206,12 @@
 
 .navbar-chat .list-item-logo1{
     position: absolute;
-    margin-top: -108px;
+    margin-top: -98px;
     margin-left: 570px;
     left: 50%;
     line-height: 60px;
     padding: 0 16px;
     
-}
-
-.navbar-chat .list-item-logo1:hover{
-    background-color: #ffffff;
 }
 
 .navbar-chat .list-item-logo1:hover .dropdown1,
@@ -229,7 +225,7 @@
 }
 
 .dropdown1{
-    z-index: 99;
+    z-index: 999;
     position: absolute;
     top: 65px;
     left: -185px;
@@ -241,7 +237,7 @@
     font-family: "Cocogoose Light";
     opacity: 0;
     visibility: hidden;
-    transition: .3s;
+    transition: 0.3s;
 }
 
 .dropdown1::before{
@@ -257,13 +253,13 @@
     transform: translate(-50%);
     opacity: 0;
     visibility: hidden;
-    transition: .3s;
+    transition: 0.3s;
 }
 
 .dropdown1 .dropdown-item1{
     border-bottom: 1px solid #FBF6F6;
     line-height: 1;
-    padding: 0 1rem;
+    padding: 0.7rem 1rem;
     margin: 5px 0;
     text-align: center;
     background-color: #ffffff;
@@ -274,15 +270,16 @@
     font-size: 16px;
     text-decoration: none;
     color: black;
-    margin: 10px 0px;
+    margin: -15px 0px;
 }
 
-.dropdown1 .dropdown-item1 a p{
+.dropdown1 .dropdown-item1 a h3{
     font-family: 'Cocogoose Light';
     font-size: 10px;
     text-decoration: none;
     color: black;
-    margin-top: -10px;
+    margin: 5px 0px;
+    position: absolute;
     float: left;
 }
 
