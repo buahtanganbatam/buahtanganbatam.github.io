@@ -198,12 +198,12 @@
 h1{
     font-family: 'Cocogoose Pro';
     font-size: 30px;
-    margin: 130px 340px;
+    margin: 160px 340px;
 }
 
 .nav{
     position: absolute;
-    margin: -270px 180px;
+    margin: -240px 180px;
     text-align: center;
     font-family: 'Comforta';
     width: 70%;
@@ -244,7 +244,7 @@ h1{
 
 .gambar{
     width: 50%;
-    margin: -15px 70px;
+    margin: -25px 70px;
     display: grid;
     grid-template-columns: 3fr 3fr 3fr 3fr;
 }
