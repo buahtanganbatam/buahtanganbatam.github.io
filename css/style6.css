@@ -198,12 +198,12 @@
 h1{
     font-family: 'Cocogoose Pro';
     font-size: 30px;
-    margin: 140px 340px;
+    margin: 170px 340px;
 }
 
 .nav{
     position: absolute;
-    margin: 130px 180px;
+    margin: -160px 180px;
     text-align: center;
     font-family: 'Comforta';
     width: 70%;
@@ -239,7 +239,7 @@ h1{
     display: block;
     color: black;
     text-decoration: none;
-    padding: 20px 47px;
+    padding: 20px 48px;
 }
 
 .gambar{
